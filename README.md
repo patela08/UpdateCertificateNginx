@@ -6,7 +6,7 @@ How to replace certificate on NGINX running on EC2
 
 ### Login to Instance:
 
-`ssh -i efh-prod.pem ubuntu@ec2-adf.ap-east-1.compute.amazonaws.com`
+`ssh -i efh-prod.pem(ssh key to connect to EC2) ubuntu@ec2-adf.ap-east-1.compute.amazonaws.com`
 
 ## Create New dir:
 
